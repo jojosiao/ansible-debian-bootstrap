@@ -41,10 +41,3 @@ ansible-galaxy install -r requirements.yml
 ```sh
 ansible-playbook bootstrap.yml --sudo --ask-sudo-pass
 ```
-
-
-## Documentation to check
-
-```
-https://docs.debops.org/en/latest/ansible/roles/ansible-postgresql/docs/
-```
