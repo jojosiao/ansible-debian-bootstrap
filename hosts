@@ -1,0 +1,2 @@
+[web]
+your-ip-should-go-here ansible_user=root
