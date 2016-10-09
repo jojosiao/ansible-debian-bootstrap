@@ -7,3 +7,6 @@ firewall_allowed_tcp_ports:
   - "25"
   - "80"
   - "443"
+
+# Timezone
+timezone: America/New_York

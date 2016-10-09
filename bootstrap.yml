@@ -16,6 +16,7 @@
 
   roles:
     - geerlingguy.firewall
+    - yatesr.timezone
 
 - name: Bootstrap new server
   hosts: web
