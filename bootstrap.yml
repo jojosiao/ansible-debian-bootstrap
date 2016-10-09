@@ -17,6 +17,7 @@
   roles:
     - geerlingguy.firewall
     - yatesr.timezone
+    - ANXS.hostname
 
 - name: Bootstrap new server
   hosts: web

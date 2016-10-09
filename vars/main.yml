@@ -8,5 +8,8 @@ firewall_allowed_tcp_ports:
   - "80"
   - "443"
 
+# Hostname
+hostname_avahi: no
+
 # Timezone
 timezone: America/New_York
